@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc"> About ALC</string>
+    <string name="my_profile"> My Profile</string>
+    <string name="my_track">Android</string>
+    <string name="my_name"> James Moshi</string>
+    <string name="my_country"> Tanzania</string>
+    <string name="my_email">Jamesmoshi20@gmail.com</string>
+    <string name="my_phone"> 255715444047</string>
+    <string name="my_username"> jamesmoshi</string>
+
+</resources>
